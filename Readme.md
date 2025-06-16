@@ -25,12 +25,11 @@ Este proyecto tiene como objetivo que, como estudiante de nivel básico en progr
    └── recuperar.html      → Vista para recuperacion de Contraseña
 
 📁 js/
-   └── aprender.js     → Scrpit que contiene Logica 
-   └── formulario.js   → Scrpit que contiene la logica del Formulario.
-   └── Login.js        → Scrpit que contiene la logica del login. 
+   └── login.js       → Scrpit que contiene la logica del login. 
+   └── Login2.js      → Scrpit que contiene la validacion y redireccionamiento a la dashboard. 
 
-
-
+📁 style/
+   └── carousel.css     → css que le da estilos al carousel
 ---
 
 ## 🛠 Tecnologías Utilizadas
