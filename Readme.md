@@ -30,6 +30,7 @@ Este proyecto tiene como objetivo que, como estudiante de nivel básico en progr
 
 📁 style/
    └── carousel.css     → css que le da estilos al carousel
+   
 ---
 
 ## 🛠 Tecnologías Utilizadas
